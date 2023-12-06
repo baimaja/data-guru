@@ -1,0 +1,36 @@
+{
+  "firstName": "Baim",
+  "lastName": "Ajah",
+  "description": "Semua karya, dan hasil saya ada pada link dibawah ✌ - Guru Muda",
+  "address": "Cikarang, Bekasi",
+  "projects": [
+    {
+      "name" : "Sejarah ebook di munculkan",
+      "link": "https://module-organization.gitbook.io/learn/"
+    },
+    {
+      "name" : "Modul HTML, CSS, JS",
+      "link": "https://module-organization.gitbook.io/learn/ebook-html/sejarah-html"
+    },
+    {
+      "name" : "Modul UI/UX Figma",
+      "link": "https://module-organization.gitbook.io/learn/ui-ux/perkenalan-figma"
+    },
+    {
+      "name" : "Modul Wordpress",
+      "link": "https://module-organization.gitbook.io/learn/ebook-wordpress/perkenalan-wordpress-and-web-server"
+    },
+    {
+      "name" : "Modul Bootstrap",
+      "link": "https://module-organization.gitbook.io/learn/ebook-bootstrap/perkenalan-bootstrap"
+    },
+    {
+      "name" : "Modul Mysql",
+      "link": "https://module-organization.gitbook.io/learn/mysql/perkenalan-mysql"
+    },
+    {
+      "name" : "Modul Javascript Lanjutan",
+      "link": "https://module-organization.gitbook.io/learn/javascript-tingkat-lanjut/perkenalan-javascript-lanjut"
+    }
+  ]
+}
